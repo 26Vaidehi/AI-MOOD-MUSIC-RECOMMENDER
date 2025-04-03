@@ -77,7 +77,7 @@ To embed a video, upload it to YouTube, Google Drive, or GitHub Issues and use:
 md
 Copy
 Edit
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 📊 Dataset & AI Models Used
 📌 Facial Emotion Dataset → [Dataset Link] (To be updated)
 📌 Speech Emotion Dataset → [Dataset Link] (To be updated)
