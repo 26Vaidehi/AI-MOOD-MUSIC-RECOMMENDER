@@ -4,6 +4,10 @@ Here's a well-structured and professional README for your AI Mood-Based Music Re
 🎶 AI Mood-Based Music Recommender
 "Transforming Emotions into Music with AI"
 
+Click this link to access the project:
+https://ai-mood-music.onrender.com
+
+
 This AI-powered system analyzes facial expressions, voice tone, and text input to detect emotions and recommend songs accordingly. It integrates with Spotify, Apple Music, and YouTube Music to curate mood-based playlists in real time.
 
 🚀 Why This Project?
